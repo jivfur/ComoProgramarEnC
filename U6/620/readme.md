@@ -2,8 +2,8 @@ Una pequeña aerolínea acaba de adquirir una computadora para su sistema automa
 
 Su programa deberá mostrar el siguiente menú de alternativas
   
-  *Please type 1 for “Smoking”
-  *Please type 2 for “Nonsmoking”
+  * Please type 1 for “Smoking”
+  * Please type 2 for “Nonsmoking”
 
 Si la persona escribe 1, entonces su programa deberá asignar un asiento en la sección de fumar (asientos del 1 al 5) Si la persona escribe 2, entonces su programa deberá de asignar un asiento en la sección de no fumar (asientos  6 al 10) . Su programa a continuación deberá imprimir un pase de abordaje, indicando el número de asiento de la persona y si está en la sección de no fumar del aeroplano.
 
